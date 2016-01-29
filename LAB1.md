@@ -17,4 +17,4 @@ compatible with select technologies and platforms.
  fear/shyness/anxiety stop you for seeking help. Also it may also be good practice to be polite to the people who answer your question 
  even if they aren't. Being rude back could turn a forum meant to help people into a social media bashing disaster. 
  
-Linux Screechshot: ![tree]()
+Linux Screechshot: ![tree](https://raw.githubusercontent.com/erinjordan24/Tutorial/8b68553ff6a4256d2f2ce1b2f986fe43465c4be4/linux.PNG)
