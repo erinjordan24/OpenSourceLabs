@@ -33,10 +33,27 @@ Regular expersion problems
 
 4: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp4.PNG)
 
+
 5: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp5.PNG)
+
 
 6: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp6.PNG)
 
+
 7: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp7.PNG)
+
+Regular expression crossword puzzles
+
+1: ![puzzl](https://raw.githubusercontent.com/erinjordan24/Photos/master/PUZZLE1.PNG)
+
+2: ![puzzl](https://raw.githubusercontent.com/erinjordan24/Photos/master/PUZZLE2.PNG)
+
+3: ![puzzl](https://raw.githubusercontent.com/erinjordan24/Photos/master/PUZZLE3.PNG)
+
+4: ![puzzl](https://raw.githubusercontent.com/erinjordan24/Photos/master/PUZZLE4.PNG)
+
+Blocky puzzle
+
+1: ![puzzl](https://raw.githubusercontent.com/erinjordan24/Photos/master/blockylab1.PNG)
 
 
