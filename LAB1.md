@@ -18,5 +18,25 @@ compatible with select technologies and platforms.
  even if they aren't. Being rude back could turn a forum meant to help people into a social media bashing disaster. 
  
 Linux Screechshot1: ![tree](https://raw.githubusercontent.com/erinjordan24/Tutorial/8b68553ff6a4256d2f2ce1b2f986fe43465c4be4/linux.PNG)
+
+
 Linux Screechshot2: ![tree](https://raw.githubusercontent.com/erinjordan24/Photos/master/linux2.PNG)
+
+Regular expersion problems
+
+1: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp1.PNG)
+
+2: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp2.PNG)
+
+3: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp3.PNG)
+
+
+4: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp4.PNG)
+
+5: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp5.PNG)
+
+6: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp6.PNG)
+
+7: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp7.PNG)
+
 
