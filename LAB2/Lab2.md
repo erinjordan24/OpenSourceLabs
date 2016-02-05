@@ -10,10 +10,19 @@ you shouldn't use a project without a specific license to avoid legal troubles. 
 I definatelt agree that the Web "beat" gopher, especially by following the "worse is better" methood. Gopher's mistake was narrowly defining what users wanted an tailoring their porduct toward that Ideal. However, because the Wed released a "worse" version of its product and allowed the users to choose how to imporove it, not only did they have a higher incentive to work on the web, but the web was able to become a service that had something for everyone to use and not just a few select peoples.
 
 ##licensing justification
-I think its perfectly fine for Google's Andriod to use the apache 2.0 license as it allows people to customize the basic android OS to their personal specifications. Google only makes it money on software packaged with the Android os (google play, app store, etc.), which still gives developers the the freedom to tinker and toy with the basic Andorid features. 
+I think its perfectly fine for Google's Andriod to use the apache 2.0 license as it allows people to customize the basic android OS to their personal specifications. Google only makes it money on software packaged with the Android os (google play, app store, etc.). I believe they chose this license so that indiviudals could make improvements to android overall and kind of direct the way andorid develops over the years in the way users want it too(then google can kind of follow suit and change with the market in a sort of real time) .
 
-##Which licencse is better
-###developers
-###companies
-####common good
+##example project
+
+
+repository here:
+
+##Which licencse is better?
+GPL, Apache and LGPL licenses are better for companies who  are worried about patents, or content sharing. For example, Google uses Apache for its Android OS, which allows people to modify the basic Adroid os without infringing on patented googles Android applications. GPl/LGPL  is also good for companies because it keeps a tighter hold on how the software can be used. However, for the common good, Apache licenses might be better because they allow for the most freedom(out of the 3 given here). For independednt developers it really depends on them what license they use. It might change from project to project.   
+
+##Project Table
+
+Prooject/website | License Present| License type
+-----------------| ---------------|-------------
+*****************|****************|************
 
