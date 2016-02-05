@@ -1,4 +1,4 @@
-
+#Lab 2 Feb 5
 ##Why it is important to choose a LICENSE?
  Its important to choose a license in order to make it clear to other people who can use your materials and under what terms.
 It's also important to choose a license in order to protect your intellectual property.
