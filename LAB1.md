@@ -30,15 +30,11 @@ Regular expersion problems
 
 3: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp3.PNG)
 
-
 4: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp4.PNG)
-
 
 5: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp5.PNG)
 
-
 6: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp6.PNG)
-
 
 7: ![regex](https://raw.githubusercontent.com/erinjordan24/Photos/master/regexp7.PNG)
 
@@ -46,14 +42,22 @@ Regular expression crossword puzzles
 
 1: ![puzzl](https://raw.githubusercontent.com/erinjordan24/Photos/master/PUZZLE1.PNG)
 
+
 2: ![puzzl](https://raw.githubusercontent.com/erinjordan24/Photos/master/PUZZLE2.PNG)
+
 
 3: ![puzzl](https://raw.githubusercontent.com/erinjordan24/Photos/master/PUZZLE3.PNG)
 
+
 4: ![puzzl](https://raw.githubusercontent.com/erinjordan24/Photos/master/PUZZLE4.PNG)
+
 
 Blocky puzzle
 
 1: ![puzzl](https://raw.githubusercontent.com/erinjordan24/Photos/master/blockylab1.PNG)
+
+Project ideas:
+One open source project I would like to do would possible be an invite me application that would allow a user to easily send
+out informatino about event their planing to other people. essetially it could access someonwes contact infomation and send them a message through text with all the specifications of the event. Another cool Idea i could do is add a feature to the "page failed to load" game for chrome (the jumping dinosaur game). One of my groupmates has already found the source code to the game. We could essentially add a new feature to the game like giving te dinosaur a new way of destorying obstacles. 
 
 
