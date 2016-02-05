@@ -13,7 +13,7 @@ I definatelt agree that the Web "beat" gopher, especially by following the "wors
 I think its perfectly fine for Google's Andriod to use the apache 2.0 license as it allows people to customize the basic android OS to their personal specifications. Google only makes it money on software packaged with the Android os (google play, app store, etc.), which still gives developers the the freedom to tinker and toy with the basic Andorid features. 
 
 ##Which licencse is better
-#developers
-#companies
-#common good
+###developers
+###companies
+####common good
 
