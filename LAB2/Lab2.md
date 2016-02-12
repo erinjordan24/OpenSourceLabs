@@ -31,3 +31,5 @@ https://github.com/tli5/LightsInvisible|no|--------
 https://github.com/Mordikai/Reddit-Enhancement-Suite| yes|GNU GENERAL PUBLIC LICENSE
 https://github.com/njbbaer/shuttle_tracking_2|no|-------
 
+##Ideas for group prject
+If our group did the grade calculator idea, It would be best to find the source code for a free grade calculator online. Our audience would mostly be students from rpi. It would allow rpi students to keep track of their grades as they come out. this would be extremenly usefule for students that don't have lms for some of their classes. We if we have time, we could allow pepole to save their progress.  
