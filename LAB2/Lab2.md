@@ -26,5 +26,8 @@ GPL, Apache and LGPL licenses are better for companies who  are worried about pa
 Prooject/website | License Present| License type
 -----------------| ---------------|-------------
 https://github.com/Robmaister/SharpNav|yes|MIT License
-|||
+https://github.com/AutoRoute/node| yes|MIT License (MIT)
+https://github.com/tli5/LightsInvisible|no|--------
+https://github.com/Mordikai/Reddit-Enhancement-Suite| yes|GNU GENERAL PUBLIC LICENSE
+https://github.com/njbbaer/shuttle_tracking_2|no|-------
 
