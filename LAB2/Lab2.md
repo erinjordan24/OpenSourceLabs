@@ -13,6 +13,7 @@ I definatelt agree that the Web "beat" gopher, especially by following the "wors
 I think its perfectly fine for Google's Andriod to use the apache 2.0 license as it allows people to customize the basic android OS to their personal specifications. Google only makes it money on software packaged with the Android os (google play, app store, etc.). I believe they chose this license so that indiviudals could make improvements to android overall and kind of direct the way andorid develops over the years in the way users want it too(then google can kind of follow suit and change with the market in a sort of real time) .
 
 ##example project
+An example project we could do would be an rpi grade calculator app and we would give it a MIT license(just bc there are so many other grade calculators around and the only thing different about ours would be some rpi specific features) 
 
 
 repository here:
