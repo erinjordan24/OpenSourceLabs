@@ -7,5 +7,7 @@ projects(and allow others to patch your work) so that the best version of your w
 
 
 fix messages:
-![here](https://files.slack.com/files-pri/T033VT1N8-F0N783NAX/firsttwodiffs.jpg)
-![and here](https://files.slack.com/files-pri/T033VT1N8-F0N780U4D/lastdiff.jpg)
+[here](https://files.slack.com/files-pri/T033VT1N8-F0N783NAX/firsttwodiffs.jpg)
+[and here](https://files.slack.com/files-pri/T033VT1N8-F0N780U4D/lastdiff.jpg)
+
+confirmation of our fix:
