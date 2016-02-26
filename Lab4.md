@@ -11,3 +11,4 @@ fix messages:
 [and here](https://files.slack.com/files-pri/T033VT1N8-F0N780U4D/lastdiff.jpg)
 
 confirmation of our fix:
+![here](https://files.slack.com/files-tmb/T033VT1N8-F0N989B62-f9f455380e/it_seems_they_implemented_the_changes_lol_1024.jpg)
